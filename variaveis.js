@@ -25,4 +25,4 @@ function escopoLocal() {
     console.log(local);
 }
 escopoLocal();
-//console.log(local); // Erro: 'local' é inacessível fora da função MTS DIAS
+//console.log(local); // Erro: 'local' é inacessível fora da função
