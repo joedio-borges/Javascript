@@ -22,7 +22,7 @@ Vamos criar um módulo personalizado para entender como eles funcionam.
 Crie um arquivo chamado meuModulo.js e adicione o seguinte código:
 
 **Passo 2:** Usando o Módulo
-Agora crie outro arquivo chamado app.js e importe o módulo que acabamos de criar:
+Agora crie outro arquivo chamado app.js e importe o módulo que acabamos de criar: import, export
 
 **Passo 3:** Executando o Código
 No terminal, execute o arquivo app.js: node app.js
